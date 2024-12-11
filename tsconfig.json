@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "pretty": true,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+  },
+  "exclude": ["node_modules", "dist", "**/*.test.ts"]
+}

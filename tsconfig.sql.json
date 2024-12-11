@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "module": "commonjs",
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "outDir": "dist-sql",
+    },
+    "include": ["src/model/db/**/*.ts"]
+  }
+  
